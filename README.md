@@ -2,7 +2,7 @@
 
 ## Sobre Mí
 
-Hola! Soy Axel Vega, tengo 22 años y soy estudiante de la carrera de Programador Universitario en Informática en la Universidad Nacional. Me apasiona el desarrollo de software y constantemente busco superar mis límites, enfocándome en proyectos reales que aporten valor.
+Hola! Soy Axel Vega, tengo 29 años y soy estudiante de la carrera de Programador Universitario en Informática en la Universidad Nacional. Me apasiona el desarrollo de software y constantemente busco superar mis límites, enfocándome en proyectos reales que aporten valor.
 
 Soy autodidacta, con una fuerte inclinación hacia el desarrollo **backend** y aplicaciones móviles. Me encanta aprender cosas nuevas y mantenerme al día con tecnologías modernas.
 
