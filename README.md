@@ -4,7 +4,7 @@
 
 Hola! Soy Axel Vega, tengo 29 años y soy estudiante de la carrera de Programador Universitario en Informática en la Universidad Nacional. Me apasiona el desarrollo de software y constantemente busco superar mis límites, enfocándome en proyectos reales que aporten valor.
 
-Soy autodidacta, con una fuerte inclinación hacia el desarrollo **backend** y aplicaciones móviles. Me encanta aprender cosas nuevas y mantenerme al día con tecnologías modernas.
+Soy autodidacta, con una fuerte inclinación hacia el desarrollo **backend**. Me encanta aprender cosas nuevas y mantenerme al día con tecnologías modernas.
 
 Estoy en búsqueda de nuevas oportunidades para seguir creciendo en el mundo IT.
 
@@ -33,7 +33,7 @@ Estoy en búsqueda de nuevas oportunidades para seguir creciendo en el mundo IT.
 
 ## 📬 Cómo Contactarme
 
-- 📧 Email: axelvega483@gmail.com  
+- 📧 Email: axelseba483@gmail.com  
 - 💼 LinkedIn: [*Axel Vega* ](https://www.linkedin.com/in/axelseba483/) 
 - 💻 GitHub: [github.com/axelvega483](https://github.com/axelvega483)
 
