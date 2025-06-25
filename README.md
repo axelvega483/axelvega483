@@ -55,19 +55,19 @@ Estoy en búsqueda de nuevas oportunidades para seguir creciendo en el mundo IT.
 
 ### 🚗 [Sistema de Concesionarias](https://github.com/axelvega483/Concesionaria)
 📄 Gestión integral de vehículos, ventas, pagos y clientes. Manejo de estados de pago, historial y lógica transaccional.  
-🛠️ **Tecnologías:** Java, Spring Boot
+🛠️ **Tecnologías:** Java, Spring Boot, MySQL
 
 ---
 
 <!--### 🌿 [App Android "Mis Raíces"](https://github.com/axelvega483/Mis-Raices)
 📱 App móvil para venta de plantas, con historial de pedidos, tarjetas y manejo local con Room (SQLite).  
-🛠️ **Tecnologías:** Java, Android SDK, Room
+🛠️ **Tecnologías:** Java, Android SDK, Room, MySQL
 
 ---
 -->
 ### 🏠 [Sistema de Gestión de Inmuebles](https://github.com/axelvega483/Inmobiliaria-backend)
 🏢 Plataforma para inmobiliaria que gestiona inmuebles, clientes, empleados y operaciones de compra-venta de forma automatizada.  
-🛠️ **Tecnologías:** Java, Spring Boot, MultipartFile
+🛠️ **Tecnologías:** Java, Spring Boot, MultipartFile, MySQL
 
 ---
 
