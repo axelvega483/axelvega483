@@ -24,7 +24,8 @@ Estoy en búsqueda de nuevas oportunidades para seguir creciendo en el mundo IT.
 
 ## 🌱 Actualmente Estoy Aprendiendo
 
-- 📚 Avanzando en conocimientos de Java y Spring.
+- 📚 Java avanzado y desarrollo backend con Spring Boot.
+- 🛡️ Seguridad en aplicaciones web: Spring Security, JWT, control de accesos.
 
 ---
 
