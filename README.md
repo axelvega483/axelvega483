@@ -59,9 +59,9 @@ Estoy en búsqueda de nuevas oportunidades para seguir creciendo en el mundo IT.
 
 ---
 
- 🌿 [App Android "Mis Raíces"](https://github.com/axelvega483/Mis-Raices)
+ ### 🌿 [App Android "Mis Raíces"](https://github.com/axelvega483/Mis-Raices)
 📱 App móvil para venta de plantas, con historial de pedidos, tarjetas y manejo local con Room (SQLite).  
-🛠️ **Tecnologías:** Java, Android SDK, Room, MySQL
+🛠️ **Tecnologías:** Java, Android SDK, Spring Boot, Room, MySQL
 
 ---
 
