@@ -59,12 +59,12 @@ Estoy en búsqueda de nuevas oportunidades para seguir creciendo en el mundo IT.
 
 ---
 
-<!--### 🌿 [App Android "Mis Raíces"](https://github.com/axelvega483/Mis-Raices)
+ 🌿 [App Android "Mis Raíces"](https://github.com/axelvega483/Mis-Raices)
 📱 App móvil para venta de plantas, con historial de pedidos, tarjetas y manejo local con Room (SQLite).  
 🛠️ **Tecnologías:** Java, Android SDK, Room, MySQL
 
 ---
--->
+
 ### 🏠 [Sistema de Gestión de Inmuebles](https://github.com/axelvega483/Inmobiliaria-backend)
 🏢 Plataforma para inmobiliaria que gestiona inmuebles, clientes, empleados y operaciones de compra-venta de forma automatizada.  
 🛠️ **Tecnologías:** Java, Spring Boot, MultipartFile, MySQL
