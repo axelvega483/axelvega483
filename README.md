@@ -24,8 +24,8 @@ Estoy en búsqueda de nuevas oportunidades para seguir creciendo en el mundo IT.
 
 ## 🌱 Actualmente Estoy Aprendiendo
 
-- 📚 Java avanzado y desarrollo backend con Spring Boot.
-- 🛡️ Seguridad en aplicaciones web: Spring Security, JWT, control de accesos.
+- 📚 Java avanzado, Spring Boot y arquitectura de microservicios.
+- 🛡️ Spring Cloud (Feign, Eureka, Gateway), seguridad y despliegue de APIs.
 
 ---
 
