@@ -2,11 +2,11 @@
 
 ## Sobre Mí
 
-Hola! Soy Axel Sebastián Vega, tengo 29 años y soy estudiante de la carrera de Programador Universitario en Informática en la Universidad Nacional de Santiago del Estero. Me apasiona el desarrollo de software y constantemente busco superar mis límites, enfocándome en proyectos reales que aporten valor.
+¡Hola! Soy Axel Sebastián Vega. Recientemente **he completado todos los requisitos académicos** para la carrera de **Programador Universitario en Informática** en la **Universidad Nacional de Santiago del Estero** (UNSE), y me encuentro en la etapa de tramitación del título formal 🎓.
 
-Soy autodidacta, con una fuerte inclinación hacia el desarrollo **backend**. Me encanta aprender cosas nuevas y mantenerme al día con tecnologías modernas.
+Mi formación académica, combinada con mi aprendizaje autodidacta, me ha permitido desarrollar un fuerte perfil en el **desarrollo backend**, con especial interés en arquitecturas modernas como microservicios con Spring Cloud.
 
-Estoy en búsqueda de nuevas oportunidades para seguir creciendo en el mundo IT.
+Estoy emocionado por buscar nuevas oportunidades para comenzar mi carrera profesional en el mundo IT.
 
 ---
 
@@ -14,6 +14,7 @@ Estoy en búsqueda de nuevas oportunidades para seguir creciendo en el mundo IT.
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Spring Cloud](https://img.shields.io/badge/Spring_Cloud-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
@@ -25,14 +26,14 @@ Estoy en búsqueda de nuevas oportunidades para seguir creciendo en el mundo IT.
 ## 🌱 Actualmente Estoy Aprendiendo
 
 - 📚 Java avanzado, Spring Boot y arquitectura de microservicios.
-- 🛡️ Spring Cloud (Feign, Eureka, Gateway), seguridad y despliegue de APIs.
+- 🛡️ Spring Cloud (Feign, Eureka, Gateway, Config Server), seguridad y despliegue de APIs.
 
 ---
 
 ## 📬 Cómo Contactarme
 
 - 📧 Email: axelseba483@gmail.com  
-- 💼 LinkedIn: [*Axel Vega* ](https://www.linkedin.com/in/axelseba483/) 
+- 💼 LinkedIn: [Axel Vega](https://www.linkedin.com/in/axelseba483/) 
 
 ---
 
@@ -45,31 +46,36 @@ Estoy en búsqueda de nuevas oportunidades para seguir creciendo en el mundo IT.
 
 ## 📌 Repositorios Destacados
 
----
+### 🚀 Microservicios
 
-### 💊 [Sistema de Gestión para Farmacias](https://github.com/axelvega483/Farmacia)
+#### 🚗 [Sistema de Concesionaria - Microservicios](https://github.com/axelvega483/Microservicios-Concesionaria)
+Sistema completo desacoplado en microservicios, implementando patrones y tecnologías modernas de Spring Cloud.
+
+**🔧 Funcionalidades clave:**
+- **API Gateway** con enrutamiento y filtros.
+- **Service Discovery** con Eureka para registrar y descubrir servicios dinámicamente.
+- **Comunicación entre servicios** mediante Feign Client.
+- **Configuración centralizada** con Spring Cloud Config Server.
+- **Gestión de autenticación, catálogo, clientes, ventas y pagos** en servicios independientes.
+
+**🛠️ Stack Tecnológico:** Java, Spring Boot, **Spring Cloud (Eureka, Gateway, Feign, Config Server)**, MySQL, Resilience4j.
+
+### 📦 Aplicaciones Monolíticas
+
+#### 💊 [Sistema de Gestión para Farmacias](https://github.com/axelvega483/Farmacia)
 🧾 Sistema completo para farmacias, con gestión de medicamentos, recetas, clientes y empleados. Incluye generación de facturas en PDF, autenticación con JWT y envío de correos.  
 🛠️ **Tecnologías:** Java, Spring Boot, MySQL
 
 ---
 
-### 🚗 [Sistema de Concesionarias](https://github.com/axelvega483/Concesionaria)
-📄 Gestión integral de vehículos, ventas, pagos y clientes. Manejo de estados de pago, historial y lógica transaccional.  
-🛠️ **Tecnologías:** Java, Spring Boot, MySQL
-
----
-
- ### 🌿 [App Android "Mis Raíces"](https://github.com/axelvega483/Mis-Raices)
-📱 App móvil para venta de plantas, con historial de pedidos, tarjetas y manejo local con Room (SQLite).  
-🛠️ **Tecnologías:** Java, Android SDK, Spring Boot, Room, MySQL
-
----
-
-### 🏠 [Sistema de Gestión de Inmuebles](https://github.com/axelvega483/Inmobiliaria-backend)
+#### 🏠 [Sistema de Gestión de Inmuebles](https://github.com/axelvega483/Inmobiliaria-backend)
 🏢 Plataforma para inmobiliaria que gestiona inmuebles, clientes, empleados y operaciones de compra-venta de forma automatizada.  
 🛠️ **Tecnologías:** Java, Spring Boot, MultipartFile, MySQL
 
 ---
 
-> ¡Gracias por visitar mi perfil! No dudes en contactarme para cualquier consulta o colaboración 🚀
+#### 🌿 [App Android "Mis Raíces"](https://github.com/axelvega483/Mis-Raices)
+📱 App móvil para venta de plantas, con historial de pedidos, tarjetas y manejo local con Room (SQLite).  
+🛠️ **Tecnologías:** Java, Android SDK, Spring Boot, Room, MySQL
 
+> ¡Gracias por visitar mi perfil! No dudes en contactarme para cualquier consulta o colaboración 🚀
