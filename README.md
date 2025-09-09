@@ -26,7 +26,7 @@ Estoy emocionado por buscar nuevas oportunidades para comenzar mi carrera profes
 ## 🌱 Actualmente Estoy Aprendiendo
 
 - 📚 Java avanzado, Spring Boot y arquitectura de microservicios.
-- 🛡️ Spring Cloud (Feign, Eureka, Gateway, Config Server), seguridad y despliegue de APIs.
+- ☁️ Spring Cloud (Feign, Eureka, Gateway, Config Server), seguridad y despliegue de APIs.
 
 ---
 
