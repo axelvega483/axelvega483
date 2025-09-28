@@ -26,7 +26,7 @@ Estoy emocionado por buscar nuevas oportunidades para comenzar mi carrera profes
 ## 🌱 Actualmente Estoy Aprendiendo
 
 - 📚 Java avanzado, Spring Boot y arquitectura de microservicios
-- ☁️ Spring Cloud (Feign, Eureka, Gateway, Config Server), seguridad y despliegue de APIs
+- ☁️ Spring Cloud (Feign, Eureka, Gateway, Config Server)
 
 ---
 
@@ -39,8 +39,8 @@ Estoy emocionado por buscar nuevas oportunidades para comenzar mi carrera profes
 
 ## 📊 Estadísticas de GitHub
 
-![Axel Vega GitHub Stats](https://github-readme-stats.vercel.app/api?username=axelvega483&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=axelvega483&layout=compact&theme=tokyonight)
+![Axel Vega GitHub Stats](https://github-readme-stats.vercel.app/api?username=axelvega483&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=axelvega483&layout=compact&theme=radical)
 
 ---
 
