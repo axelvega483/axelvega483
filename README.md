@@ -63,7 +63,7 @@ Sistema completo desacoplado en microservicios, implementando patrones y tecnolo
 ### 📦 Aplicaciones Monolíticas
 
 #### 💊 [Sistema de Gestión para Farmacias](https://github.com/axelvega483/Farmacia)
-🧾 Sistema completo para farmacias, con gestión de medicamentos, recetas, clientes y empleados. Incluye generación de facturas en PDF, autenticación con JWT y envío de correos.  
+🧾 Sistema completo para farmacias, con gestión de medicamentos, recetas, clientes y empleados. Incluye generación de facturas en PDF y envío de correos.  
 🛠️ **Tecnologías:** Java, Spring Boot, MySQL
 
 ---
