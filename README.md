@@ -34,7 +34,6 @@ Estoy emocionado por buscar nuevas oportunidades para comenzar mi carrera profes
 
 - 📧 Email: axelseba483@gmail.com  
 - 💼 LinkedIn: [Axel Vega](https://www.linkedin.com/in/axelseba483/)
-- 🐙 GitHub: [axelvega483](https://github.com/axelvega483)
 
 ---
 
