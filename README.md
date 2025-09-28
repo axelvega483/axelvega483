@@ -25,15 +25,18 @@ Estoy emocionado por buscar nuevas oportunidades para comenzar mi carrera profes
 
 ## 🌱 Actualmente Estoy Aprendiendo
 
-- 📚 Java avanzado, Spring Boot y arquitectura de microservicios.
-- ☁️ Spring Cloud (Feign, Eureka, Gateway, Config Server), seguridad y despliegue de APIs.
+- 📚 Java avanzado, Spring Boot y arquitectura de microservicios
+- ☁️ Spring Cloud (Feign, Eureka, Gateway, Config Server), seguridad y despliegue de APIs
+- 🐳 Docker y orquestación de contenedores
+- 🔐 Spring Security y JWT para autenticación
 
 ---
 
 ## 📬 Cómo Contactarme
 
 - 📧 Email: axelseba483@gmail.com  
-- 💼 LinkedIn: [Axel Vega](https://www.linkedin.com/in/axelseba483/) 
+- 💼 LinkedIn: [Axel Vega](https://www.linkedin.com/in/axelseba483/)
+- 🐙 GitHub: [axelvega483](https://github.com/axelvega483)
 
 ---
 
@@ -46,36 +49,70 @@ Estoy emocionado por buscar nuevas oportunidades para comenzar mi carrera profes
 
 ## 📌 Repositorios Destacados
 
-### 🚀 Microservicios
+### 🚀 Proyectos con Microservicios
 
 #### 🚗 [Sistema de Concesionaria - Microservicios](https://github.com/axelvega483/Microservicios-Concesionaria)
 Sistema completo desacoplado en microservicios, implementando patrones y tecnologías modernas de Spring Cloud.
 
 **🔧 Funcionalidades clave:**
-- **API Gateway** con enrutamiento y filtros.
-- **Service Discovery** con Eureka para registrar y descubrir servicios dinámicamente.
-- **Comunicación entre servicios** mediante Feign Client.
-- **Configuración centralizada** con Spring Cloud Config Server.
-- **Gestión de autenticación, catálogo, clientes, ventas y pagos** en servicios independientes.
+- **API Gateway** con enrutamiento y filtros
+- **Service Discovery** con Eureka para registrar y descubrir servicios dinámicamente
+- **Comunicación entre servicios** mediante Feign Client
+- **Configuración centralizada** con Spring Cloud Config Server
+- **Gestión de autenticación, catálogo, clientes, ventas y pagos** en servicios independientes
 
-**🛠️ Stack Tecnológico:** Java, Spring Boot, **Spring Cloud (Eureka, Gateway, Feign, Config Server)**, MySQL, Resilience4j.
-
-### 📦 Aplicaciones Monolíticas
-
-#### 💊 [Sistema de Gestión para Farmacias](https://github.com/axelvega483/Farmacia)
-🧾 Sistema completo para farmacias, con gestión de medicamentos, recetas, clientes y empleados. Incluye generación de facturas en PDF y envío de correos.  
-🛠️ **Tecnologías:** Java, Spring Boot, MySQL
+**🛠️ Stack Tecnológico:** Java, Spring Boot, Spring Cloud (Eureka, Gateway, Feign, Config Server), MySQL, Resilience4j
 
 ---
 
+#### 💊 [Sistema de Gestión para Farmacia - Microservicios](https://github.com/axelvega483/Microservicios-farmacia)
+Sistema distribuido para gestión integral de farmacias con arquitectura de microservicios.
+
+**🔧 Funcionalidades clave:**
+- **7 microservicios especializados** (auth, customer, catalog, sales, prescriptions, provider, gateway)
+- **Service Discovery** con Eureka para registro dinámico de servicios
+- **Comunicación entre servicios** mediante Feign Client
+- **Resiliencia** con Circuit Breaker y Retry patterns
+- **Gestión completa** de medicamentos, ventas, clientes, recetas y proveedores
+- **Actualización automática de stock** y generación de facturas PDF
+
+**🛠️ Stack Tecnológico:** Java, Spring Boot, Spring Cloud (Eureka, Gateway, Feign), MySQL, Resilience4j, JPA
+
+### 📦 Aplicaciones Monolíticas
+
 #### 🏠 [Sistema de Gestión de Inmuebles](https://github.com/axelvega483/Inmobiliaria-backend)
-🏢 Plataforma para inmobiliaria que gestiona inmuebles, clientes, empleados y operaciones de compra-venta de forma automatizada.  
-🛠️ **Tecnologías:** Java, Spring Boot, MultipartFile, MySQL
+Plataforma para inmobiliaria que gestiona inmuebles, clientes, empleados y operaciones de compra-venta.
+
+**🛠️ Tecnologías:** Java, Spring Boot, MySQL, MultipartFile
+
+**✨ Características:**
+- Gestión completa de propiedades
+- Subida de imágenes de inmuebles
+- Automatización de procesos de compra-venta
+- Control de clientes y empleados
 
 ---
 
 #### 🌿 [App Android "Mis Raíces"](https://github.com/axelvega483/Mis-Raices)
-📱 App móvil para venta de plantas, con historial de pedidos, tarjetas y manejo local con Room (SQLite).  
-🛠️ **Tecnologías:** Java, Android SDK, Spring Boot, Room, MySQL
+App móvil para venta de plantas con historial de pedidos y manejo local de datos.
+
+**🛠️ Tecnologías:** Java, Android SDK, Spring Boot, Room, SQLite, MySQL
+
+**✨ Características:**
+- Catálogo de plantas y productos
+- Historial de pedidos local
+- Gestión de tarjetas de crédito
+- Sincronización con backend Spring Boot
+
+---
+
+## 🎯 Metas Profesionales
+
+- 🚀 Contribuir a proyectos desafiantes en desarrollo backend
+- 📈 Especializarme en arquitecturas de microservicios y cloud computing
+- 🤝 Colaborar en equipos ágiles con metodologías modernas
+- 🌐 Aprender sobre DevOps y prácticas de CI/CD
+
+---
 
 > ¡Gracias por visitar mi perfil! No dudes en contactarme para cualquier consulta o colaboración 🚀
