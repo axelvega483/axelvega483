@@ -120,8 +120,6 @@ App móvil para venta de plantas con historial de pedidos y manejo local de dato
 - 🤝 Colaborar en equipos ágiles  
 - 🌐 Aprender DevOps y CI/CD  
 
----
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:9333EA,100:06B6D4&height=120&section=footer"/>
 </p>
