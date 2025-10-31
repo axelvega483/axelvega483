@@ -113,6 +113,26 @@ App móvil para venta de plantas con historial de pedidos y manejo local de dato
 
 ---
 
+#### 🏥 [Sistema de Gestión de Turnos Médicos](https://github.com/axelvega483/Turno-Medico.git) 
+Sistema de backend para la administración integral de turnos médicos en clínicas y hospitales.
+
+**✨ Características:**  
+
+- Gestión inteligente de turnos
+
+- Control de pacientes y profesionales
+
+- Sistema de disponibilidad
+
+- Múltiples especialidades médicas
+
+- Gestión de obras sociales
+
+**🛠️ Stack:** Java 17, Spring Boot 3.x, Spring Data JPA, MySQL/PostgreSQL
+
+---
+
+
 ## 🎯 Metas Profesionales  
 
 - 🚀 Contribuir a proyectos desafiantes en desarrollo backend  
