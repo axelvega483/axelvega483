@@ -1,147 +1,156 @@
-# ¡Hola! Soy Axel Sebastián Vega 👋
+<h1 align="center">
+  🚀 ¡Hola! Soy Axel Sebastián Vega 👨‍💻
+</h1>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,100:9333EA&height=200&section=header&text=Backend%20Developer&fontSize=45&fontColor=fff&animation=twinkling&fontAlignY=35"/>
 </p>
 
-## 👨‍💻 Sobre Mí  
+<div align="center">
+  
+  *"Apasionado por crear soluciones backend robustas y escalables"* ✨
 
-Soy **Axel Sebastián Vega**, recientemente egresado de la **Universidad Nacional de Santiago del Estero (UNSE)** como **Programador Universitario en Informática** 🎓.  
-
-Me apasiona el **desarrollo backend** y las **arquitecturas modernas** como microservicios con **Spring Cloud**.  
-Estoy en búsqueda de nuevas oportunidades para comenzar mi carrera profesional en el mundo IT 🚀.  
-
----
-
-## 🧰 Tecnologías y Herramientas  
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Spring_Cloud-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-</p>
+</div>
 
 ---
 
-## 🌱 Actualmente Estoy Aprendiendo  
+## 👨‍💻 Sobre Mí
 
-- 📚 Java avanzado, Spring Boot y arquitectura de microservicios  
-- ☁️ Spring Cloud (Feign, Eureka, Gateway, Config Server)  
+<div align="center">
 
----
+| 🎓 Formación | 🎯 Especialidad | 🚀 Objetivo |
+|--------------|-----------------|-------------|
+| **Programador Universitario en Informática**<br>🏛️ UNSE | **Desarrollo Backend**<br>🏗️ Arquitecturas Modernas<br>☁️ Microservicios Spring Cloud | **Primera Experiencia Profesional**<br>💼 Mundo IT<br>🌟 Crecimiento Continuo |
 
-## 📬 Cómo Contactarme  
-
-<p align="center">
-  <a href="mailto:axelseba483@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/axelseba483/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-</p>
+</div>
 
 ---
 
-## 📊 Estadísticas de GitHub  
+## 🛠️ Stack Tecnológico
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=axelvega483&show_icons=true&theme=radical" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=axelvega483&layout=compact&theme=radical" height="180"/>
-</p>
+### 💻 Backend & Cloud
+<div align="center">
+  
+| Java Ecosystem | Spring Ecosystem | Cloud & Microservicios |
+|----------------|------------------|-----------------------|
+| <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/> <br> <img src="https://img.shields.io/badge/JPA-Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white"/> | <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/> <br> <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white"/> | <img src="https://img.shields.io/badge/Spring_Cloud-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/> <br> <img src="https://img.shields.io/badge/Microservicios-Architecture-FF6B6B?style=for-the-badge"/> |
 
----
+</div>
 
-## 📌 Repositorios Destacados  
+### 🗄️ Bases de Datos & Herramientas
+<div align="center">
 
-### 🚀 Proyectos con Microservicios  
+| Bases de Datos | Desarrollo | Documentación |
+|----------------|------------|---------------|
+| <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white"/> <br> <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"/> | <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/> <br> <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white"/> | <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black"/> <br> <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/> |
 
-#### 🚗 [Sistema de Concesionaria - Microservicios](https://github.com/axelvega483/Microservicios-Concesionaria)  
-Sistema completo desacoplado en microservicios, implementando patrones y tecnologías modernas de Spring Cloud.  
+</div>
 
-**🔧 Funcionalidades clave:**  
-- API Gateway con enrutamiento y filtros  
-- Service Discovery con Eureka  
-- Comunicación con Feign Client  
-- Configuración centralizada con Config Server  
-- Gestión de autenticación, catálogo, clientes, ventas y pagos  
+### 📱 Mobile
+<div align="center">
+  
+| Plataforma | Tecnologías |
+|------------|-------------|
+| <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/> | <img src="https://img.shields.io/badge/Android_SDK-3DDC84?style=for-the-badge&logo=android&logoColor=white"/> <br> <img src="https://img.shields.io/badge/Room_SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"/> |
 
-**🛠️ Stack:** Java, Spring Boot, Spring Cloud, MySQL, Resilience4j  
-
----
-
-#### 💊 [Sistema de Gestión para Farmacia - Microservicios](https://github.com/axelvega483/Microservicios-farmacia)  
-Sistema distribuido para gestión integral de farmacias con arquitectura de microservicios.  
-
-**🔧 Funcionalidades clave:**  
-- 7 microservicios especializados  
-- Service Discovery con Eureka  
-- Comunicación entre servicios con Feign Client  
-- Resiliencia con Circuit Breaker y Retry  
-- Facturación PDF y gestión de stock  
-
-**🛠️ Stack:** Java, Spring Boot, Spring Cloud, MySQL, Resilience4j, JPA  
+</div>
 
 ---
 
-### 📦 Aplicaciones Monolíticas  
+## 📚 Roadmap de Aprendizaje
 
-#### 🏠 [Sistema de Gestión de Inmuebles](https://github.com/axelvega483/Inmobiliaria-backend)  
-Plataforma para inmobiliaria con gestión de inmuebles, clientes, empleados y operaciones.  
+<div align="center">
 
-**✨ Características:**  
-- Gestión de propiedades  
-- Subida de imágenes  
-- Automatización compra-venta  
-- Control de clientes y empleados  
+| 🎯 En Progreso | 📖 Próximos Objetivos | 🌟 Metas Futuras |
+|----------------|----------------------|------------------|
+| **Java Avanzado**<br>🔄 Patrones de diseño<br>**Spring Boot Expert**<br>🏗️ Arquitecturas limpias | **Spring Cloud**<br>☁️ Eureka, Gateway<br>🔗 Feign, Config Server<br>**Bases de Datos**<br>📊 Optimización SQL | **DevOps & Cloud**<br>🐳 Docker & Kubernetes<br>☁️ AWS/Azure<br>**Arquitectura**<br>🏢 Event-Driven Architecture |
 
-**🛠️ Stack:** Java, Spring Boot, MySQL  
+</div>
 
 ---
 
-#### 🌿 [App Android "Mis Raíces"](https://github.com/axelvega483/Mis-Raices)  
-App móvil para venta de plantas con historial de pedidos y manejo local de datos.  
+## 📊 Mi Actividad en GitHub
 
-**✨ Características:**  
-- Catálogo de productos  
-- Historial de pedidos  
-- Gestión de tarjetas  
-- Sincronización con backend  
+<div align="center">
 
-**🛠️ Stack:** Java, Android SDK, Spring Boot, Room, SQLite, MySQL  
+| 📈 Estadísticas Generales | 💻 Lenguajes Más Usados |
+|--------------------------|-------------------------|
+| <img src="https://github-readme-stats.vercel.app/api?username=axelvega483&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" height="165"/> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=axelvega483&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" height="165"/> |
 
----
-
-#### 🏥 [Sistema de Gestión de Turnos Médicos](https://github.com/axelvega483/Turno-Medico.git) 
-Sistema de backend para la administración integral de turnos médicos en clínicas y hospitales.
-
-**✨ Características:**  
-
-- Gestión inteligente de turnos
-
-- Control de pacientes y profesionales
-
-- Sistema de disponibilidad
-
-- Múltiples especialidades médicas
-
-- Gestión de obras sociales
-
-**🛠️ Stack:** Java 17, Spring Boot 3.x, Spring Data JPA, MySQL/PostgreSQL
+</div>
 
 ---
 
+## 🏆 Proyectos Destacados
 
-## 🎯 Metas Profesionales  
+### 🌟 Sistema de Concesionaria - Microservicios
+<div align="center">
 
-- 🚀 Contribuir a proyectos desafiantes en desarrollo backend  
-- 📈 Especializarme en microservicios y cloud computing  
-- 🤝 Colaborar en equipos ágiles  
-- 🌐 Aprender DevOps y CI/CD  
+| 🔧 Tecnologías | 🚀 Características | 📁 Repositorio |
+|----------------|-------------------|----------------|
+| <img src="https://img.shields.io/badge/Java-17-ED8B00?style=flat&logo=java&logoColor=white"/> <img src="https://img.shields.io/badge/Spring_Cloud-2023-6DB33F?style=flat&logo=spring&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-8.0-00758F?style=flat&logo=mysql&logoColor=white"/> | • API Gateway con enrutamiento inteligente<br>• Service Discovery con Eureka Server<br>• Comunicación síncrona con Feign Client<br>• Configuración centralizada<br>• 6 microservicios especializados | [![Ver Repositorio](https://img.shields.io/badge/🔗_Ver_Repositorio-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/axelvega483/Microservicios-Concesionaria) |
+
+</div>
+
+### 🌟 Sistema de Farmacia - Microservicios
+<div align="center">
+
+| 🔧 Tecnologías | 🚀 Características | 📁 Repositorio |
+|----------------|-------------------|----------------|
+| <img src="https://img.shields.io/badge/Java-17-ED8B00?style=flat&logo=java&logoColor=white"/> <img src="https://img.shields.io/badge/Spring_Boot-3.4.5-6DB33F?style=flat&logo=springboot&logoColor=white"/> <img src="https://img.shields.io/badge/Resilience4j-Fault_Tolerance-FF6B6B?style=flat"/> | • 7 microservicios independientes<br>• Circuit Breaker para resiliencia<br>• Retry patterns automáticos<br>• Generación de PDF para facturas<br>• Gestión inteligente de stock | [![Ver Repositorio](https://img.shields.io/badge/🔗_Ver_Repositorio-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/axelvega483/Microservicios-farmacia) |
+
+</div>
+
+### 💼 Proyectos Monolíticos
+<div align="center">
+
+| Proyecto | Descripción | Tecnologías | Enlace |
+|----------|-------------|-------------|--------|
+| **🏠 Inmobiliaria** | Gestión completa de propiedades | <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white"/> <img src="https://img.shields.io/badge/JPA-59666C?style=flat&logo=hibernate&logoColor=white"/> | [![Ver](https://img.shields.io/badge/Ver-181717?style=flat&logo=github)](https://github.com/axelvega483/Inmobiliaria-backend) |
+| **🌿 Mis Raíces** | App Android e-commerce | <img src="https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white"/> <img src="https://img.shields.io/badge/Room-07405E?style=flat&logo=sqlite&logoColor=white"/> | [![Ver](https://img.shields.io/badge/Ver-181717?style=flat&logo=github)](https://github.com/axelvega483/Mis-Raices) |
+| **🏥 Turnos Médicos** | Sistema de agendamiento | <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-00758F?style=flat&logo=mysql&logoColor=white"/> | [![Ver](https://img.shields.io/badge/Ver-181717?style=flat&logo=github)](https://github.com/axelvega483/Turno-Medico.git) |
+
+</div>
+
+---
+
+## 📬 Conectemos
+
+<div align="center">
+
+| 📧 Email | 💼 LinkedIn | 🐙 GitHub |
+|----------|-------------|-----------|
+| [![Gmail](https://img.shields.io/badge/axelseba483@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:axelseba483@gmail.com) | [![LinkedIn](https://img.shields.io/badge/Axel_Vega-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/axelseba483/) | [![GitHub](https://img.shields.io/badge/axelvega483-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/axelvega483) |
+
+</div>
+
+---
+
+## 🎯 Mi Visión Profesional
+
+<div align="center">
+
+| 🚀 Corto Plazo | 📈 Medio Plazo | 🌟 Largo Plazo |
+|----------------|----------------|----------------|
+| **Primera experiencia IT**<br>💼 Desarrollador Backend Jr.<br>**Aprendizaje continuo**<br>📚 Mejores prácticas | **Especialización**<br>🏗️ Arquitectura de Software<br>☁️ Cloud Computing<br>**Liderazgo técnico**<br>👨‍💻 Mentoring | **Arquitecto de Software**<br>🏢 Diseño de sistemas complejos<br>**Contribución open source**<br>🌍 Impacto en comunidad |
+
+</div>
+
+---
+
+<div align="center">
+
+## 💫 ¿Tienes un proyecto interesante?
+
+**¡Estoy emocionado por colaborar y contribuir a proyectos desafiantes!**
+
+[![Contactar por Email](https://img.shields.io/badge/📧_Hablemos-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:axelseba483@gmail.com)
+[![Ver LinkedIn](https://img.shields.io/badge/💼_Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/axelseba483/)
+
+</div>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:9333EA,100:06B6D4&height=120&section=footer"/>
 </p>
 
-> ✨ ¡Gracias por visitar mi perfil! No dudes en contactarme para cualquier consulta o colaboración 🚀
+> ✨ *"El software es como la arquitectura: debe ser funcional, hermoso y duradero"* - Listo para construir el futuro, una línea de código a la vez 🚀
