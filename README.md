@@ -3,9 +3,8 @@
 </h1>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,100:9333EA&height=200&section=header&text=Backend%20Developer&fontSize=45&fontColor=fff&animation=twinkling&fontAlignY=35"/>
+ <img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,100:9333EA&height=220&section=header&text=Backend%20Developer%20-%20☕%20Java%20and%20Spring&fontSize=38&fontColor=fff&animation=twinkling&fontAlignY=35"/>
 </p>
-
 <div align="center">
   
   *"Apasionado por crear soluciones backend robustas y escalables"* ✨
