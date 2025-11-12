@@ -7,7 +7,7 @@
 </p>
 <div align="center">
   
-  *"Apasionado por crear soluciones backend robustas y escalables"* ✨
+  *Backend Developer enfocado en calidad, rendimiento y buenas prácticas.* ✨
 
 </div>
 
