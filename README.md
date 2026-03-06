@@ -132,7 +132,7 @@ https://github.com/axelvega483/Microservicios-farmacia
 
 | Proyecto | Descripción | Tecnologías |
 |--------|--------|--------|
-| 🚗 **Sistema Concesionaria Seguro** | API REST desarrollada con **Spring Boot** que implementa **autenticación JWT y control de acceso con Spring Security**. Permite gestionar vehículos, clientes, ventas, pagos y viajes mediante una arquitectura en capas. | Java • Spring Boot • Spring Security • JWT • JPA • MySQL |
+| 🚗 **Concesionaria API (JWT Security)** | API REST para la gestión de vehículos, clientes, ventas, pagos y viajes. Implementa autenticación JWT y control de acceso con Spring Security siguiendo una arquitectura en capas. | Java • Spring Boot • Spring Security • JWT • JPA • MySQL |
 | 🏠 **Inmobiliaria** | Sistema backend para gestión de propiedades con CRUD completo, manejo de imágenes y persistencia con JPA. | Spring Boot • Hibernate |
 | 🌿 **Mis Raíces** | Aplicación Android de e-commerce conectada a backend REST. Incluye almacenamiento local con Room. | Android • SQLite |
 | 🏥 **Turnos Médicos** | Sistema de agendamiento de turnos médicos con gestión de pacientes y profesionales. | Spring Boot • MySQL |
