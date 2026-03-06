@@ -1,137 +1,175 @@
 <h1 align="center">
-  🚀 ¡Hola! Soy Axel Sebastián Vega 👨‍💻
+🚀 ¡Hola! Soy Axel Sebastián Vega 👨‍💻
 </h1>
 
 <p align="center">
- <img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,100:9333EA&height=220&section=header&text=Backend%20Developer%20-%20☕%20Java%20and%20Spring&fontSize=38&fontColor=fff&animation=twinkling&fontAlignY=35"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,100:9333EA&height=220&section=header&text=Backend%20Developer%20-%20Java%20%7C%20Spring%20%7C%20APIs&fontSize=38&fontColor=fff&animation=twinkling&fontAlignY=35"/>
 </p>
+
 <div align="center">
-  
-  *Backend Developer enfocado en calidad, rendimiento y buenas prácticas.* ✨
+
+Backend Developer enfocado en **Java, Spring Boot y arquitectura de APIs REST**.  
+Apasionado por la **arquitectura de software, microservicios y seguridad de aplicaciones**.
 
 </div>
 
 ---
 
-## 👨‍💻 Sobre Mí
+# 👨‍💻 Sobre mí
 
 <div align="center">
 
 | 🎓 Formación | 🎯 Especialidad | 🚀 Objetivo |
 |--------------|-----------------|-------------|
-| **Programador Universitario en Informática**<br>🏛️ UNSE | **Desarrollo Backend**<br>🏗️ Arquitecturas Modernas<br>☁️ Microservicios Spring Cloud | **Primera Experiencia Profesional**<br>💼 Mundo IT<br>🌟 Crecimiento Continuo |
+| **Programador Universitario en Informática**<br>🏛️ UNSE | **Backend con Java & Spring**<br>Arquitecturas REST<br>Microservicios | **Primera experiencia profesional**<br>Desarrollador Backend Jr |
 
 </div>
 
 ---
 
-## 🛠️ Stack Tecnológico
+# 🧠 Áreas de Experiencia
 
-### 💻 Backend & Cloud
+✔ Desarrollo de **APIs REST con Spring Boot**  
+✔ Arquitectura **monolítica y microservicios**  
+✔ Seguridad con **Spring Security y JWT**  
+✔ Persistencia con **JPA / Hibernate**  
+✔ Documentación de APIs con **OpenAPI / Swagger**  
+✔ Comunicación entre servicios con **Feign Client**
+
+---
+
+# 🛠️ Stack Tecnológico
+
+### 💻 Backend
+
 <div align="center">
-  
-| Java Ecosystem | Spring Ecosystem | Cloud & Microservicios |
-|----------------|------------------|-----------------------|
-| <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/> <br> <img src="https://img.shields.io/badge/JPA-Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white"/> | <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/> <br> <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white"/> | <img src="https://img.shields.io/badge/Spring_Cloud-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/> <br> <img src="https://img.shields.io/badge/Microservicios-Architecture-FF6B6B?style=for-the-badge"/> |
+
+<img src="https://img.shields.io/badge/Java-17-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white"/>
+<img src="https://img.shields.io/badge/JWT-Authentication-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spring_Cloud-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
 
 </div>
 
-### 🗄️ Bases de Datos & Herramientas
+### 🗄️ Persistencia
+
 <div align="center">
 
-| Bases de Datos | Desarrollo | Documentación |
-|----------------|------------|---------------|
-| <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white"/> <br> <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"/> | <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/> <br> <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white"/> | <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black"/> <br> <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/> |
+<img src="https://img.shields.io/badge/JPA-Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"/>
+
+</div>
+
+### ⚙️ Herramientas
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white"/>
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+<img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black"/>
 
 </div>
 
 ### 📱 Mobile
+
 <div align="center">
-  
-| Plataforma | Tecnologías |
-|------------|-------------|
-| <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/> | <img src="https://img.shields.io/badge/Android_SDK-3DDC84?style=for-the-badge&logo=android&logoColor=white"/> <br> <img src="https://img.shields.io/badge/Room_SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"/> |
+
+<img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
+<img src="https://img.shields.io/badge/Room_SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"/>
 
 </div>
 
 ---
 
-## 📚 Roadmap de Aprendizaje
+# 🏆 Proyectos Destacados
+
+## 🌐 Sistema de Concesionaria - Arquitectura de Microservicios
 
 <div align="center">
 
-| 🎯 En Progreso | 📖 Próximos Objetivos | 🌟 Metas Futuras |
-|----------------|----------------------|------------------|
-| **Java Avanzado**<br>🔄 Patrones de diseño<br>**Spring Boot Expert**<br>🏗️ Arquitecturas limpias | **Spring Cloud**<br>☁️ Eureka, Gateway<br>🔗 Feign, Config Server<br>**Bases de Datos**<br>📊 Optimización SQL | **DevOps & Cloud**<br>🐳 Docker & Kubernetes<br>☁️ AWS/Azure<br>**Arquitectura**<br>🏢 Event-Driven Architecture |
+**Arquitectura distribuida desarrollada con Spring Cloud**
+
+</div>
+
+**Características principales**
+
+• API Gateway para enrutamiento de servicios  
+• Service Discovery con **Eureka Server**  
+• Comunicación entre microservicios con **Feign Client**  
+• Configuración centralizada  
+• Arquitectura escalable basada en microservicios  
+
+**Tecnologías**
+
+Java • Spring Boot • Spring Cloud • MySQL • Feign • Eureka
+
+🔗  
+https://github.com/axelvega483/Microservicios-Concesionaria
+
+---
+
+## 💊 Sistema de Farmacia - Microservicios
+
+Sistema backend distribuido enfocado en **resiliencia y tolerancia a fallos**.
+
+**Características**
+
+• 7 microservicios independientes  
+• Circuit Breaker con **Resilience4j**  
+• Retry automático ante fallos  
+• Generación de facturas PDF  
+• Gestión de inventario y ventas  
+
+🔗  
+https://github.com/axelvega483/Microservicios-farmacia
+
+---
+
+# 💼 Proyectos Backend Monolíticos
+
+| Proyecto | Descripción | Tecnologías |
+|--------|--------|--------|
+| 🚗 **Sistema Concesionaria Seguro** | API REST desarrollada con **Spring Boot** que implementa **autenticación JWT y control de acceso con Spring Security**. Permite gestionar vehículos, clientes, ventas, pagos y viajes mediante una arquitectura en capas. | Java • Spring Boot • Spring Security • JWT • JPA • MySQL |
+| 🏠 **Inmobiliaria** | Sistema backend para gestión de propiedades con CRUD completo, manejo de imágenes y persistencia con JPA. | Spring Boot • Hibernate |
+| 🌿 **Mis Raíces** | Aplicación Android de e-commerce conectada a backend REST. Incluye almacenamiento local con Room. | Android • SQLite |
+| 🏥 **Turnos Médicos** | Sistema de agendamiento de turnos médicos con gestión de pacientes y profesionales. | Spring Boot • MySQL |
+
+---
+
+# 📊 Actividad en GitHub
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=axelvega483&show_icons=true&theme=radical"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=axelvega483&layout=compact&theme=radical"/>
 
 </div>
 
 ---
 
-## 📊 Mi Actividad en GitHub
+# 🎯 Objetivo Profesional
 
-<div align="center">
-
-| 📈 Estadísticas Generales | 💻 Lenguajes Más Usados |
-|--------------------------|-------------------------|
-| <img src="https://github-readme-stats.vercel.app/api?username=axelvega483&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" height="165"/> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=axelvega483&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" height="165"/> |
-
-</div>
+Busco mi **primera oportunidad profesional como Backend Developer Jr**  
+para contribuir en el desarrollo de **APIs, arquitecturas backend y sistemas escalables** mientras continúo perfeccionando mis habilidades en **Spring, arquitectura de software y cloud**.
 
 ---
 
-## 🏆 Proyectos Destacados
-
-### 🌟 Sistema de Concesionaria - Microservicios
-<div align="center">
-
-| 🔧 Tecnologías | 🚀 Características | 📁 Repositorio |
-|----------------|-------------------|----------------|
-| <img src="https://img.shields.io/badge/Java-17-ED8B00?style=flat&logo=java&logoColor=white"/> <img src="https://img.shields.io/badge/Spring_Cloud-2023-6DB33F?style=flat&logo=spring&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-8.0-00758F?style=flat&logo=mysql&logoColor=white"/> | • API Gateway con enrutamiento inteligente<br>• Service Discovery con Eureka Server<br>• Comunicación síncrona con Feign Client<br>• Configuración centralizada<br>• 6 microservicios especializados | [![Ver Repositorio](https://img.shields.io/badge/🔗_Ver_Repositorio-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/axelvega483/Microservicios-Concesionaria) |
-
-</div>
-
-### 🌟 Sistema de Farmacia - Microservicios
-<div align="center">
-
-| 🔧 Tecnologías | 🚀 Características | 📁 Repositorio |
-|----------------|-------------------|----------------|
-| <img src="https://img.shields.io/badge/Java-17-ED8B00?style=flat&logo=java&logoColor=white"/> <img src="https://img.shields.io/badge/Spring_Boot-3.4.5-6DB33F?style=flat&logo=springboot&logoColor=white"/> <img src="https://img.shields.io/badge/Resilience4j-Fault_Tolerance-FF6B6B?style=flat"/> | • 7 microservicios independientes<br>• Circuit Breaker para resiliencia<br>• Retry patterns automáticos<br>• Generación de PDF para facturas<br>• Gestión inteligente de stock | [![Ver Repositorio](https://img.shields.io/badge/🔗_Ver_Repositorio-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/axelvega483/Microservicios-farmacia) |
-
-</div>
-
-### 💼 Proyectos Monolíticos
-<div align="center">
-
-| Proyecto | Descripción | Tecnologías | Enlace |
-|----------|-------------|-------------|--------|
-| **🏠 Inmobiliaria** | Gestión completa de propiedades | <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white"/> <img src="https://img.shields.io/badge/JPA-59666C?style=flat&logo=hibernate&logoColor=white"/> | [![Ver](https://img.shields.io/badge/Ver-181717?style=flat&logo=github)](https://github.com/axelvega483/Inmobiliaria-backend) |
-| **🌿 Mis Raíces** | App Android e-commerce | <img src="https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white"/> <img src="https://img.shields.io/badge/Room-07405E?style=flat&logo=sqlite&logoColor=white"/> | [![Ver](https://img.shields.io/badge/Ver-181717?style=flat&logo=github)](https://github.com/axelvega483/Mis-Raices) |
-| **🏥 Turnos Médicos** | Sistema de agendamiento | <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-00758F?style=flat&logo=mysql&logoColor=white"/> | [![Ver](https://img.shields.io/badge/Ver-181717?style=flat&logo=github)](https://github.com/axelvega483/Turno-Medico.git) |
-
-</div>
-
----
-
-## 📬 Conectemos
+# 📬 Contacto
 
 <div align="center">
 
-| 📧 Email | 💼 LinkedIn | 🐙 GitHub |
-|----------|-------------|-----------|
-| [![Gmail](https://img.shields.io/badge/axelseba483@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:axelseba483@gmail.com) | [![LinkedIn](https://img.shields.io/badge/Axel_Vega-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/axelseba483/) | [![GitHub](https://img.shields.io/badge/axelvega483-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/axelvega483) |
+📧 **Email**  
+axelseba483@gmail.com  
 
-</div>
+💼 **LinkedIn**  
+https://www.linkedin.com/in/axelseba483  
 
----
-
-## 🎯 Mi Visión Profesional
-
-<div align="center">
-
-| 🚀 Corto Plazo | 📈 Medio Plazo | 🌟 Largo Plazo |
-|----------------|----------------|----------------|
-| **Primera experiencia IT**<br>💼 Desarrollador Backend Jr.<br>**Aprendizaje continuo**<br>📚 Mejores prácticas | **Especialización**<br>🏗️ Arquitectura de Software<br>☁️ Cloud Computing<br>**Liderazgo técnico**<br>👨‍💻 Mentoring | **Arquitecto de Software**<br>🏢 Diseño de sistemas complejos<br>**Contribución open source**<br>🌍 Impacto en comunidad |
+🐙 **GitHub**  
+https://github.com/axelvega483  
 
 </div>
 
@@ -139,17 +177,6 @@
 
 <div align="center">
 
-## 💫 ¿Tienes un proyecto interesante?
-
-**¡Estoy emocionado por colaborar y contribuir a proyectos desafiantes!**
-
-[![Contactar por Email](https://img.shields.io/badge/📧_Hablemos-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:axelseba483@gmail.com)
-[![Ver LinkedIn](https://img.shields.io/badge/💼_Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/axelseba483/)
+💡 *"El software bien diseñado es aquel que resuelve problemas reales de forma simple y escalable."*
 
 </div>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:9333EA,100:06B6D4&height=120&section=footer"/>
-</p>
-
-> ✨ *"El software es como la arquitectura: debe ser funcional, hermoso y duradero"* - Listo para construir el futuro, una línea de código a la vez 🚀
