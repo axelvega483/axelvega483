@@ -143,9 +143,9 @@ https://github.com/axelvega483/Microservicios-farmacia
 
 <p align="center">
   <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=axelvega483&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9"/>
- <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=axelvega483&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9"/>
-</p>
+  <img height="165" src="https://streak-stats.demolab.com/?user=axelvega483&theme=radical&hide_border=true"/>
 
+</p>
 ---
 
 # 🎯 Objetivo Profesional
