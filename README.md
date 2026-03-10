@@ -130,12 +130,12 @@ https://github.com/axelvega483/Microservicios-farmacia
 
 # 💼 Proyectos Backend Monolíticos
 
-| Proyecto | Descripción | Tecnologías |
-|--------|--------|--------|
-| 🚗 **Concesionaria API (JWT Security)** | API REST para la gestión de vehículos, clientes, ventas, pagos y viajes. Implementa autenticación JWT y control de acceso con Spring Security siguiendo una arquitectura en capas. | Java • Spring Boot • Spring Security • JWT • JPA • MySQL |
-| 🏠 **Inmobiliaria** | Sistema backend para gestión de propiedades con CRUD completo, manejo de imágenes y persistencia con JPA. | Spring Boot • Hibernate |
-| 🌿 **Mis Raíces** | Aplicación Android de e-commerce conectada a backend REST. Incluye almacenamiento local con Room. | Android • SQLite |
-| 🏥 **Turnos Médicos** | Sistema de agendamiento de turnos médicos con gestión de pacientes y profesionales. | Spring Boot • MySQL |
+| Proyecto | Descripción | Tecnologías | Repositorio |
+|--------|--------|--------|--------|
+| 🚗 **Concesionaria API (JWT Security)** | API REST para la gestión de vehículos, clientes, ventas, pagos y viajes. Implementa autenticación JWT y control de acceso con Spring Security siguiendo una arquitectura en capas. | Java • Spring Boot • Spring Security • JWT • JPA • MySQL | [Código fuente](https://github.com/axelvega483/Concesionaria) |
+| 🏠 **Inmobiliaria** | Sistema backend para gestión de propiedades con CRUD completo, manejo de imágenes y persistencia con JPA. | Spring Boot • Hibernate | [Código fuente](https://github.com/axelvega483/Inmobiliaria-backend) |
+| 🌿 **Mis Raíces** | Aplicación Android de e-commerce conectada a backend REST. Incluye almacenamiento local con Room. | Android • SQLite | [Código fuente](https://github.com/axelvega483/Mis-Raices) |
+| 🏥 **Turnos Médicos** | Sistema de agendamiento de turnos médicos con gestión de pacientes y profesionales. | Spring Boot • MySQL | [Código fuente](https://github.com/axelvega483/Turno-Medico)|
 
 ---
 
