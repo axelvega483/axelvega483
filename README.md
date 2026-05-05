@@ -44,7 +44,7 @@ Backend Developer especializado en **Java y Spring Boot**, enfocado en el desarr
 | Proyecto | Descripción | Tecnologías | Repositorio |
 |----------|-------------|-------------|-------------|
 | 🚗 **Sistema de Concesionaria** | Arquitectura distribuida con API Gateway, Service Discovery (Eureka), comunicación síncrona mediante Feign Client y autenticación JWT propagada entre servicios. | Java • Spring Boot • Spring Cloud • Eureka • Feign • MySQL |[Ver repositorio](https://github.com/axelvega483/Microservicios-Concesionaria) |
-| 💊 **Sistema de Farmacia** |  Sistema backend distribuido con 7 microservicios, Circuit Breaker con Resilience4j y retry automático ante fallos. | Java • Spring Boot • Spring Cloud • Resilience4j • MySQL | [Ver repositorio](https://github.com/axelvega483/Microservicios-farmacia) |
+| 💊 **Sistema de Farmacia** |  Sistema backend distribuido con 7 microservicios, Circuit Breaker con Resilience4j y autenticación JWT propagada entre servicios. | Java • Spring Boot • Spring Cloud • Resilience4j • MySQL | [Ver repositorio](https://github.com/axelvega483/Microservicios-farmacia) |
 ---
 
 ## 💼 APIs Backend (Arquitectura Monolítica)
